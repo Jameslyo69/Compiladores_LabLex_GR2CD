@@ -1,0 +1,5 @@
+int contador = 10;
+if (contador > 5) x = 25;
+else y_2 = 0;
+while (i1 < 100) suma = suma + 3;
+iff whilex Int

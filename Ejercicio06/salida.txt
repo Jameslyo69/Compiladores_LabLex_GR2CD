@@ -1,0 +1,37 @@
+PALABRA RESERVADA -> int
+IDENTIFICADOR     -> contador
+OTRO SIMBOLO      -> =
+NUMERO ENTERO     -> 10
+OTRO SIMBOLO      -> ;
+PALABRA RESERVADA -> if
+OTRO SIMBOLO      -> (
+IDENTIFICADOR     -> contador
+OTRO SIMBOLO      -> >
+NUMERO ENTERO     -> 5
+OTRO SIMBOLO      -> )
+IDENTIFICADOR     -> x
+OTRO SIMBOLO      -> =
+NUMERO ENTERO     -> 25
+OTRO SIMBOLO      -> ;
+PALABRA RESERVADA -> else
+IDENTIFICADOR     -> y_2
+OTRO SIMBOLO      -> =
+NUMERO ENTERO     -> 0
+OTRO SIMBOLO      -> ;
+PALABRA RESERVADA -> while
+OTRO SIMBOLO      -> (
+IDENTIFICADOR     -> i1
+OTRO SIMBOLO      -> <
+NUMERO ENTERO     -> 100
+OTRO SIMBOLO      -> )
+IDENTIFICADOR     -> suma
+OTRO SIMBOLO      -> =
+IDENTIFICADOR     -> suma
+OTRO SIMBOLO      -> +
+NUMERO ENTERO     -> 3
+OTRO SIMBOLO      -> ;
+IDENTIFICADOR     -> iff
+IDENTIFICADOR     -> whilex
+IDENTIFICADOR     -> Int
+
+Reservadas: 4  Identificadores: 10  Enteros: 6
