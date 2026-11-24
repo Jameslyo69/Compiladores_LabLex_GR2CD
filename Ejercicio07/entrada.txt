@@ -1,0 +1,9 @@
+a + b - c * d / 2
+x < y
+x <= y
+x > 10
+x >= 10
+a == b
+a != b
+total = a ;
+

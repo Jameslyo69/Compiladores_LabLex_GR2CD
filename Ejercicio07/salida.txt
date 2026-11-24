@@ -1,0 +1,33 @@
+OPERANDO    -> a
+ARITMETICO  -> + (suma)
+OPERANDO    -> b
+ARITMETICO  -> - (resta)
+OPERANDO    -> c
+ARITMETICO  -> * (multiplicacion)
+OPERANDO    -> d
+ARITMETICO  -> / (division)
+OPERANDO    -> 2
+OPERANDO    -> x
+RELACIONAL  -> < (menor)
+OPERANDO    -> y
+OPERANDO    -> x
+RELACIONAL  -> <= (menor o igual)
+OPERANDO    -> y
+OPERANDO    -> x
+RELACIONAL  -> > (mayor)
+OPERANDO    -> 10
+OPERANDO    -> x
+RELACIONAL  -> >= (mayor o igual)
+OPERANDO    -> 10
+OPERANDO    -> a
+RELACIONAL  -> == (igual)
+OPERANDO    -> b
+OPERANDO    -> a
+RELACIONAL  -> != (diferente)
+OPERANDO    -> b
+OPERANDO    -> total
+NO ES OPERADOR -> =
+OPERANDO    -> a
+NO ES OPERADOR -> ;
+
+Operadores aritmeticos: 4  Relacionales: 6

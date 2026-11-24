@@ -1,0 +1,5 @@
+HOLA Mundo
+Compiladores Y Lenguajes EPN 2026-B
+WHILE (Contador < 10) { Suma = Suma + 1; }
+ya esta en minusculas 123
+

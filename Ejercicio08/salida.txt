@@ -1,0 +1,7 @@
+hola mundo
+compiladores y lenguajes epn 2026-b
+while (contador < 10) { suma = suma + 1; }
+ya esta en minusculas 123
+
+
+Letras convertidas: 20
