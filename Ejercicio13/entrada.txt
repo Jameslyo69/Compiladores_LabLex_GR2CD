@@ -1,0 +1,5 @@
+edad, nombre, 123, total, 45
+variable1, 999, contador, x, y, z
+item, 42, 3.14, valor
+dato1, dato2; dato3
+10, 20, #, 30, $
