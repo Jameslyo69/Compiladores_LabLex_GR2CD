@@ -1,0 +1,50 @@
+Linea 1 | IDENTIFICADOR -> edad
+Linea 1 | SEPARADOR     -> ','
+Linea 1 | IDENTIFICADOR -> nombre
+Linea 1 | SEPARADOR     -> ','
+Linea 1 | NUMERO ENTERO -> 123
+Linea 1 | SEPARADOR     -> ','
+Linea 1 | IDENTIFICADOR -> total
+Linea 1 | SEPARADOR     -> ','
+Linea 1 | NUMERO ENTERO -> 45
+Linea 2 | IDENTIFICADOR -> alejandro
+Linea 2 | SEPARADOR     -> ','
+Linea 2 | NUMERO ENTERO -> 999
+Linea 2 | SEPARADOR     -> ','
+Linea 2 | IDENTIFICADOR -> contador
+Linea 2 | SEPARADOR     -> ','
+Linea 2 | IDENTIFICADOR -> x
+Linea 2 | SEPARADOR     -> ','
+Linea 2 | IDENTIFICADOR -> y
+Linea 2 | SEPARADOR     -> ','
+Linea 2 | IDENTIFICADOR -> z
+Linea 3 | IDENTIFICADOR -> item
+Linea 3 | SEPARADOR     -> ','
+Linea 3 | NUMERO ENTERO -> 42
+Linea 3 | SEPARADOR     -> ','
+Linea 3 | ERROR (token no entero/id) -> 3.14
+Linea 3 | SEPARADOR     -> ','
+Linea 3 | IDENTIFICADOR -> valor
+Linea 4 | IDENTIFICADOR -> dato1
+Linea 4 | SEPARADOR     -> ','
+Linea 4 | IDENTIFICADOR -> dato2
+Linea 4 | ERROR (caracter invalido)  -> ';'
+Linea 4 | IDENTIFICADOR -> dato3
+Linea 5 | NUMERO ENTERO -> 10
+Linea 5 | SEPARADOR     -> ','
+Linea 5 | NUMERO ENTERO -> 20
+Linea 5 | SEPARADOR     -> ','
+Linea 5 | ERROR (caracter invalido)  -> '#'
+Linea 5 | SEPARADOR     -> ','
+Linea 5 | NUMERO ENTERO -> 30
+Linea 5 | SEPARADOR     -> ','
+Linea 5 | ERROR (caracter invalido)  -> '$'
+
++-----------------------------------+
+|       RESUMEN DE LA LISTA         |
++-----------------------------------+
+| Identificadores reconocidos :  13 |
+| Numeros enteros reconocidos :   7 |
+| Separadores de coma (,)     :  17 |
+| Tokens con error reportados :   4 |
++-----------------------------------+

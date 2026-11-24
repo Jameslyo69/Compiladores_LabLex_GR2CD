@@ -1,0 +1,18 @@
+BINARIO       -> 0 (Decimal: 0)
+BINARIO       -> 1 (Decimal: 1)
+BINARIO       -> 10 (Decimal: 2)
+BINARIO       -> 101 (Decimal: 5)
+BINARIO       -> 1111 (Decimal: 15)
+BINARIO       -> 10000000 (Decimal: 128)
+BINARIO       -> 11111111 (Decimal: 255)
+BINARIO       -> 1010101010 (Decimal: 682)
+NUMERO NO BIN -> 10201 (contiene digitos fuera de 0 y 1)
+NUMERO NO BIN -> 12345 (contiene digitos fuera de 0 y 1)
+IDENTIFICADOR -> alejandro_bin
+IDENTIFICADOR -> x
+OTRO SIMBOLO  -> =
+BINARIO       -> 1011 (Decimal: 11)
+OTRO SIMBOLO  -> +
+BINARIO       -> 100 (Decimal: 4)
+
+Total numeros binarios reconocidos: 10
