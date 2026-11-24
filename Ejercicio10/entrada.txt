@@ -1,9 +1,0 @@
-usuario@gmail.com
-alejandro.guanocunga@epn.edu.ec
-contacto123@empresa.com.ec
-admin_red@servidor-web.org
-correo_invalido@
-invalido@dominio
-prueba@@servidor.com
-Esto no es correo sino texto plano
-Mensaje para soporte@soporte.net urgente
